@@ -25,7 +25,7 @@ To make the BMI calculator avaliable for use anytime and anywhere, it is hosted 
 
 ## An example
 
-Supposed I am 175 centimeters tall, weighing 75 kilograms, my BMI will be:
+Supposed my height is 175 centimeters and I weigh 75 kilograms, my BMI will be:
 
 
 ```r
@@ -33,7 +33,7 @@ Supposed I am 175 centimeters tall, weighing 75 kilograms, my BMI will be:
 ```
 
 ```
-## [1] 24.49
+## [1] 24.4898
 ```
 
 --- #page4
